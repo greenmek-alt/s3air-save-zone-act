@@ -2,7 +2,7 @@
 
 # Save Zone Act
 
-Save the second act of the zone after closing the game. Do not deny yourself the pleasure of closing the game during the second act, making a tea, and enjoying the evening watching a movie.
+restart  the second act of the zone after closing the game. Do not deny yourself the pleasure of closing the game during the second act, making a tea, and enjoying the evening watching a movie.
 
 ## <font color="#6ee16c">List of features:</font>
 
@@ -31,4 +31,5 @@ Q. My save was broken - it loading a wrong zone/act. What should I do?
 A. Make sure to update the mod to the latest version. Enter to the save slots, the bug-correctionscript will try to fix this. If you still encounter this, then delete the saved slot act. Simply press [UP] during [YES/NO] on the Eggman sign.
 
 Q. I noticed a bug, where can I contact?  
+
 A. Contact me in the comments of Gamebanana, GitHub issues, or via Discord on the Sonic 3 A.I.R modding server. Try to describe the problem in more detail.
